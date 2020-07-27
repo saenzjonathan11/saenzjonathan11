@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I am Jonathan Saenz 👋
 
-<!--
-**saenzjonathan11/saenzjonathan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  I’m currently working as a **IT Compliance Intern @ The City of Bryan**
+- 🎓 Undergraduate at Texas A&M, class of '21
+	- B.S. Computer Engineering
+	- Cybersecurity Minor
+	- Mathematics Minor
 
-Here are some ideas to get you started:
+- 💼 Currently working on <a href="http://cybr.club"><img src="http://cybr.club/img/club-logos/blackShieldWhiteLogo750x750.png" height="20" width="20"> Texas A&M Cybersecurity Club website</a> - **Launching in August 2020**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💯 Working to grow <a href="http://cybr.club"><img src="http://cybr.club/img/club-logos/blackShieldWhiteLogo750x750.png" height="20" width="20"> Cybersecurity Club </a> and 
+  <img src="https://www.redhat.com/cms/managed-files/styles/xlarge/s3/RH_Academy_FullColor_RGB-193x200_0.png?itok=tsKGJgOS" height="20" width="20"> Red Hat Academy at 
+  Texas A&M <img src="https://brandguide.tamu.edu/assets/img/tamu-logo.svg" height="20" width="20">
+- 🌱 I’m currently learning Django, Vue.js, and Web application security
+- 🌐 Find how to reach me at my [Personal Website](https://jonathanfsaenz.com)
+- <img src="https://raw.githubusercontent.com/linssen/country-flag-icons/master/images/svg/ecu.svg" width="20" height="15" > I am Ecuadorian and a U.S. citizen
