@@ -6,10 +6,10 @@
 	- Cybersecurity Minor
 	- Mathematics Minor
 
-* 💼 Currently working on <a href="http://cybr.club" style="text-decoration:none;color:#500"> **Texas A&M Cybersecurity Club website** </a> - **Launching August 2020**
+* 💼 Currently working on <a href="http://cybr.club"> **Texas A&M Cybersecurity Club website** </a> - **Launching August 2020**
 
 * 💯 Working to grow **Cybersecurity Club** </a> and 
-  <img src="./img/redhat-academy-logo.png" height="20" width="20"> **Red Hat Academy @ Texas A&M** <img src="https://brandguide.tamu.edu/assets/img/tamu-logo.svg" height="20" width="20">
+  <img src="./img/redhat-academy-logo.png" height="20" width="20"> **Red Hat Academy @ Texas A&M** <img src="./img/tamu-logo.svg" height="20" width="20">
 * 🌱 I’m currently learning Django, Vue.js, and web application security
-* 🌐 Find how to reach me at my <a href="https://jonathanfsaenz.com" style="text-decoration:none;color:white;">**personal website**</a>
-* <img src="./img/ecu.svg" width="20" height="12" ><img src="./img/usa.svg" width="20" height="12" style="margin-left:5px;"> Fun fact ... I am Ecuadorian American 
+* 🌐 Find how to reach me at my <a href="https://jonathanfsaenz.com">**personal website**</a>
+* <img src="./img/ecu.svg" width="20" height="12" > <img src="./img/usa.svg" width="20" height="12"> Fun fact ... I am Ecuadorian American 
