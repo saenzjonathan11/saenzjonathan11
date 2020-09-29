@@ -4,10 +4,11 @@
 [![Website](https://img.shields.io/website?color=blue&label=LinkedIn&logo=linkedin&up_message=jsaenz1&url=https%3A%2F%2Fwww.linkedin.com)](https://www.linkedin.com/in/jsaenz1/)
 [![GitHub followers](https://img.shields.io/github/followers/saenzjonathan11?style=social)](https://github.com/saenzjonathan11?tab=followers)
 
-- 🎓 Undergraduate at Texas A&M, class of '22
+- 🎓 Undergraduate at Texas A&M, class of '21
 	- B.S. Computer Engineering
 	- Cybersecurity Minor
 	- Mathematics Minor
+	- Graduating May 2022 to help grow the extracurricular activities I am involved in
 
 * 💼 Currently working on <a href="http://cybr.club"> **Texas A&M Cybersecurity Club website** </a> - **Launched August 2020**
 
